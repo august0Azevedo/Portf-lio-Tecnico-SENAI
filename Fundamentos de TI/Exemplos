@@ -1,3 +1,4 @@
+-While-
 #!/bin/sh
 input_string="hello"
 while [[ $input_string != "bye" ]]

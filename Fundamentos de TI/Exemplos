@@ -1,1 +1,10 @@
+#!/bin/sh
+input_string="hello"
+while [[ $input_string != "bye" ]]
+do
+  echo "Please write something in (bye to quit)"
+  read input_string
+  echo "You typed: $input_string"
+done
 
+*Esse programa mostra como criar um dialogo onde é necessario inserir uma determinada palavra para que o programa encerre como no exemplo onde temos "hello" e você é obrigado a escrever "bye"*

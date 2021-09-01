@@ -3,5 +3,5 @@ Esse portfólio tem como função armazenar trabalhos e exercícios das áreas d
 # Fundamentos de Ti
 * [Exemplo](Fundamentos_TI/Exemplos.sh)
 * [Usuário sistema](Fundamentos_TI/Mostrar_usuarios_sistema.sh)
-* [Usuário sistema](Fundamentos_TI/Prova.sh)
+* [Prova](Fundamentos_TI/Prova.sh)
 
